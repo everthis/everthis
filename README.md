@@ -1,7 +1,9 @@
 <!--
 ![alt text](https://raw.githubusercontent.com/everthis/everthis/master/banner.jpeg "Logo")
 -->
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=everthis)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=everthis&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everthis&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
